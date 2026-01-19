@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Faizan 👋
 
-<!--
-**faizanalii/faizanalii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Python Developer & Automation Engineer**.
+I build **web scrapers, APIs, and automation systems** that help businesses collect, process, and use data efficiently.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+* Build **high-quality web scrapers** (Zillow, Airbnb, Leboncoin, Daraz, Ticketmaster, and more)
+* Create **automation workflows** (APIs, background jobs, data pipelines)
+* Developing **AI Agents**
+* Develop **FastAPI & Flask APIs** for scalable products
+* Work with **large datasets** for market research and analytics
+* Deploy and maintain scrapers on **Apify**
+
+---
+
+## Tools & Tech
+
+* **Languages:** Python, JavaScript
+* **Frameworks:** FastAPI, Flask, Next.js
+* **Scraping:** Playwright, rnet, curl-cffi
+* **Databases:** PostgreSQL, SQLite, Supabase, MongoDB
+* **Automation:** Apify, n8n, Zapier, LamgChain, LangFlow
+* **Cloud & Dev:** Docker, Git, Linux
+
+---
+
+## What I’m building
+
+* Scrapers & APIs for **real estate**, **e-commerce**, and **events**
+* SaaS ideas using **Zillow & market data**
+* Tools that turn raw data into **useful insights**
+
+---
+
+## Let’s connect
+
+* [LinkedIn](https://www.linkedin.com/in/faizanaliii/)
+* [Book a Meeting](https://cal.com/faizanali/appointments)
+
